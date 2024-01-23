@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.key{
+    height: 90vh;
+    width: 100vw;
+    background-image: url(vecteezy_school-education-and-science-doodle-background_13717509\ 2\ \(1\).png);
+    color: #008080;
+    margin-top: 3rem;
+   
+    
+}
+.key-head{
+    font-size: 90px;
+    font-weight: 1000;
+    font-family: 'Lalezar';
+    margin-left: 60rem;
+}
+.key-cards{
+    height: 180px;
+    
+}
+
+.card-detail{
+    height: 17rem;
+    width: 36rem;
+    background-color: #FFF8E3;
+    margin-left: 5rem;
+    margin-top: 10px;
+    border-radius: 20px;
+    border:  6px solid #008080;
+    text-align: center;
+}
+.icon{
+    height: 25rem;
+    width: 27rem;
+    margin-left: 8rem;
+    margin-top: 8rem;
+}
+.note{
+    margin-left:2rem ;
+    margin-top: 1rem;
+    font-family:'poppins' ;
+    font-size: 3rem;
+}
+.des{
+    margin-top: 15px;
+    margin-left:2.5rem;
+    font-size: 35px;
+    font-family: 'poppins'; 
+}
+.keys{
+    display: flex;
+    
+}
+.card-detail1{
+    height: 17rem;
+    width: 36rem;
+    background-color: #daffef;
+    margin-left: 3rem;
+    margin-top: 10px;
+    border-radius: 20px;
+    border:  6px solid #008080;
+    text-align: center;
+}
+.card-detail2{
+    background-color: #FAE7F3;
+    height: 17rem;
+    width: 36rem;
+    margin-left: 3rem;
+    margin-top: 10px;
+    border-radius: 20px;
+    border:  6px solid #008080;
+    text-align: center;
+}
+  
+.card-detail3{
+    background-color: #EBF3E8;
+    height: 17rem;
+    width: 36rem;
+    margin-left: 3rem;
+    margin-top: 10px;
+    border-radius: 20px;
+    border:  6px solid #008080;
+    text-align: center;
+}
